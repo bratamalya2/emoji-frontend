@@ -1,0 +1,21 @@
+1. Download and install nodejs LTS version. I used v16.20.1. 
+Link: https://nodejs.org/download/release/v16.20.1/ -> Pick as per your OS
+
+2. After installation completes open a terminal window and check installation by passing the following commands in terminal:
+
+i. npm -v
+ii. node -v
+
+3. If step shows results for both the commands. Then install yarn by typing the following command in terminal.
+
+npm install --global yarn
+
+4. Restart the terminal and open the folder location where you have extracted the source code (along with this file).
+
+5. Ensure docuSign folder is opened in terminal and type the following command in terminal.
+
+yarn install
+
+6. Now, run the app by typing the following command in terminal.
+
+yarn start

@@ -1,0 +1,42 @@
+.card {
+    width: 200px;
+    min-height: 450px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(0, 15, 61);
+    border-radius: 5px;
+}
+
+.emoji-symbol {
+    text-align: center;
+}
+
+.emoji-name {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.emoji-category {
+    text-align: center;
+    text-transform: capitalize;
+    width: 70%;
+    margin: 0px auto 15px;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+.emoji-group {
+    text-align: center;
+    text-transform: capitalize;
+    width: 70%;
+    margin: 0px auto 15px;
+    background-color: rgb(38, 25, 224);
+    border: none;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+.emoji-code {
+    text-align: center;
+}

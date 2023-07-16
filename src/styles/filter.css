@@ -1,0 +1,13 @@
+.filter-btn-container{
+    width: max-content;
+    margin: 25px auto 25px 90%;
+}
+
+.filter-emojis > input {
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.filter-emojis > label {
+    text-transform: capitalize;
+}
